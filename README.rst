@@ -14,6 +14,7 @@ Examples
 --------
 
 .. code:: latex
+
     \bibliography{einsteinAlbert}
     \cite{einstein1935}
 
